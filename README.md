@@ -20,15 +20,19 @@ The code required to generate random geographic coordinates and the nearest city
 To fulfill the first requirement,  the OpenWeatherMap API was used to retrieve weather data from the cities list generated in the starter code. Next, you'll create a series of scatter plots to showcase the following relationships:
 
 Latitude vs. Temperature
+
 <img width="557" alt="Screenshot 2023-10-06 at 1 15 02 PM" src="https://github.com/javsgon/python-api-challenge/assets/125521896/9f8d4a30-b389-4b27-94dd-acbc39f60306">
 
 Latitude vs. Humidity
+
 <img width="567" alt="Screenshot 2023-10-06 at 1 15 10 PM" src="https://github.com/javsgon/python-api-challenge/assets/125521896/25bf848f-6379-40ae-8708-7470e9e895d2">
 
 Latitude vs. Cloudiness
+
 <img width="574" alt="Screenshot 2023-10-06 at 1 15 16 PM" src="https://github.com/javsgon/python-api-challenge/assets/125521896/931f69a1-522d-4aa1-955b-2624867932c3">
 
 Latitude vs. Wind Speed
+
 <img width="551" alt="Screenshot 2023-10-06 at 1 15 23 PM" src="https://github.com/javsgon/python-api-challenge/assets/125521896/2f58fb2d-b127-4fa9-b21c-7a2fcdec9fb3">
 
 #### Requirement 2: Compute Linear Regression for Each Relationship
@@ -40,11 +44,19 @@ The following plots were created:
 
 Northern Hemisphere: Temperature vs. Latitude
 
+<img width="573" alt="Screenshot 2023-10-06 at 1 15 36 PM" src="https://github.com/javsgon/python-api-challenge/assets/125521896/bca3fdb2-806d-406e-b88a-b1a3607622a6">
+
 Southern Hemisphere: Temperature vs. Latitude
+
+<img width="556" alt="Screenshot 2023-10-06 at 1 15 43 PM" src="https://github.com/javsgon/python-api-challenge/assets/125521896/50da570c-b380-4a54-ae6c-1763693afd3c">
 
 Northern Hemisphere: Humidity vs. Latitude
 
+<img width="569" alt="Screenshot 2023-10-06 at 1 15 50 PM" src="https://github.com/javsgon/python-api-challenge/assets/125521896/3e03cbda-3129-4de6-b00c-cb04bbadfabc">
+
 Southern Hemisphere: Humidity vs. Latitude
+
+<img width="573" alt="Screenshot 2023-10-06 at 1 15 57 PM" src="https://github.com/javsgon/python-api-challenge/assets/125521896/6bb051b4-9d69-4cca-9371-250100e4a949">
 
 Northern Hemisphere: Cloudiness vs. Latitude
 
