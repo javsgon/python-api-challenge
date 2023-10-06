@@ -60,11 +60,21 @@ Southern Hemisphere: Humidity vs. Latitude
 
 Northern Hemisphere: Cloudiness vs. Latitude
 
+<img width="558" alt="Screenshot 2023-10-06 at 1 21 33 PM" src="https://github.com/javsgon/python-api-challenge/assets/125521896/5cc7ad02-9dbf-4d96-8a16-0070a3b59c1f">
+
 Southern Hemisphere: Cloudiness vs. Latitude
+
+<img width="563" alt="Screenshot 2023-10-06 at 1 21 48 PM" src="https://github.com/javsgon/python-api-challenge/assets/125521896/2ff13dc1-4c61-4837-864e-19f6563cacf4">
+
 
 Northern Hemisphere: Wind Speed vs. Latitude
 
+<img width="545" alt="Screenshot 2023-10-06 at 1 21 58 PM" src="https://github.com/javsgon/python-api-challenge/assets/125521896/4dae36e4-3b8e-4063-a723-68ad935023ff">
+
 Southern Hemisphere: Wind Speed vs. Latitude
+
+<img width="547" alt="Screenshot 2023-10-06 at 1 22 06 PM" src="https://github.com/javsgon/python-api-challenge/assets/125521896/bc97e9cf-f5cf-4f23-bf86-fd0743e6583a">
+
 
 ### Part 2: VacationPy
 Used Jupyter notebooks, the geoViews Python library, and the Geoapify API.
