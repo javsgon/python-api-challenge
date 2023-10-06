@@ -20,12 +20,16 @@ The code required to generate random geographic coordinates and the nearest city
 To fulfill the first requirement,  the OpenWeatherMap API was used to retrieve weather data from the cities list generated in the starter code. Next, you'll create a series of scatter plots to showcase the following relationships:
 
 Latitude vs. Temperature
+<img width="557" alt="Screenshot 2023-10-06 at 1 15 02 PM" src="https://github.com/javsgon/python-api-challenge/assets/125521896/9f8d4a30-b389-4b27-94dd-acbc39f60306">
 
 Latitude vs. Humidity
+<img width="567" alt="Screenshot 2023-10-06 at 1 15 10 PM" src="https://github.com/javsgon/python-api-challenge/assets/125521896/25bf848f-6379-40ae-8708-7470e9e895d2">
 
 Latitude vs. Cloudiness
+<img width="574" alt="Screenshot 2023-10-06 at 1 15 16 PM" src="https://github.com/javsgon/python-api-challenge/assets/125521896/931f69a1-522d-4aa1-955b-2624867932c3">
 
 Latitude vs. Wind Speed
+<img width="551" alt="Screenshot 2023-10-06 at 1 15 23 PM" src="https://github.com/javsgon/python-api-challenge/assets/125521896/2f58fb2d-b127-4fa9-b21c-7a2fcdec9fb3">
 
 #### Requirement 2: Compute Linear Regression for Each Relationship
 The linear regression for each relationship was computed. The plots into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude) were separated. 
