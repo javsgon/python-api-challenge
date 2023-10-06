@@ -87,6 +87,9 @@ To succeed on this deliverable of the assignment, the VacationPy.ipynb starter c
 
 - Created a map that displays a point for every city in the city_data_df DataFrame. The size of the point should be the humidity in each city.
 
+  <img width="637" alt="Screenshot 2023-10-06 at 1 25 40 PM" src="https://github.com/javsgon/python-api-challenge/assets/125521896/02eaab3f-b1a3-40ac-b273-428323a87510">
+
+
 - Narrowed down the city_data_df DataFrame to find the ideal weather condition. For example:
 
   - A max temperature lower than 27 degrees but higher than 21
@@ -94,6 +97,9 @@ To succeed on this deliverable of the assignment, the VacationPy.ipynb starter c
   - Wind speed less than 4.5 m/s
 
   - Zero cloudiness
+
+  <img width="661" alt="Screenshot 2023-10-06 at 1 25 57 PM" src="https://github.com/javsgon/python-api-challenge/assets/125521896/86f1c757-b97c-46cc-8db1-521d4bb40312">
+
 
 Created a new DataFrame called hotel_df to store the city, country, coordinates, and humidity.
 
